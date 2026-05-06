@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Benelly%20Engster&fontSize=50&desc=Análise%20de%20Dados%20|%20Python%20|%20IA%20Aplicada&descSize=20&fontAlignY=35&descAlignY=60&fontColor=ffffff" width="100%" alt="Banner Benelly" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Benelly%20Engster&fontSize=50&desc=Análise%20de%20Dados%20|%20Power%20BI%20|%20Python%20|%20IA%20Aplicada&descSize=20&fontAlignY=35&descAlignY=60&fontColor=ffffff" width="100%" alt="Banner Benelly" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 - **Formação:** Tecnóloga em Análise e Desenvolvimento de Sistemas pelo IFPR.
 - **Pesquisa:** Ex-bolsista de Iniciação Científica (CNPq), premiada por projetos de impacto social voltados à inclusão de mulheres na tecnologia.
 - **Atualidade:** Aprofundando conhecimentos em Inteligência Artificial no Mestrado em Ciência da Computação como Aluna Externa na UTFPR.
-- **Interesses:** Python, Análise de Dados e IA Aplicada.
+- **Interesses:** Power BI, Python, Análise de Dados e IA Aplicada.
 
 ### 🛠️ Minhas Ferramentas e Tecnologias:
 
