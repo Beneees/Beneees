@@ -17,10 +17,10 @@
 <br>
 
 ### ✨ Sobre mim:
-- [cite_start]**Formação:** Tecnóloga em Análise e Desenvolvimento de Sistemas pelo IFPR[cite: 16, 46].
-- [cite_start]**Pesquisa:** Ex-bolsista de Iniciação Científica (CNPq), premiada por projetos de impacto social voltados à inclusão de mulheres na tecnologia[cite: 18, 23, 48, 53].
-- [cite_start]**Atualidade:** Aprofundando conhecimentos em Inteligência Artificial no Mestrado em Ciência da Computação como Aluna Externa na UTFPR[cite: 14, 44].
-- [cite_start]**Interesses:** Python, Análise de Dados e IA Aplicada[cite: 2, 32].
+- **Formação:** Tecnóloga em Análise e Desenvolvimento de Sistemas pelo IFPR[cite: 16, 46].
+- **Pesquisa:** Ex-bolsista de Iniciação Científica (CNPq), premiada por projetos de impacto social voltados à inclusão de mulheres na tecnologia[cite: 18, 23, 48, 53].
+- **Atualidade:** Aprofundando conhecimentos em Inteligência Artificial no Mestrado em Ciência da Computação como Aluna Externa na UTFPR[cite: 14, 44].
+- **Interesses:** Python, Análise de Dados e IA Aplicada[cite: 2, 32].
 
 ### 🛠️ Minhas Ferramentas e Tecnologias:
 
